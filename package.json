@@ -6,7 +6,7 @@
 	"version": "2.1.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"@freecodecamp/example": "MAJOR.MINOR.PATCH",
+		"@freecodecamp/example": "1.2.13",
 		"express": "^4.14.0"
 		
 	},
