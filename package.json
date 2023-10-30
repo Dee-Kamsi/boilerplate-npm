@@ -2,6 +2,7 @@
 	"author": "Diane Obinwa",
 	"description" : "An awesome project",
 	"keywords": [ "fun", "freecodecamp", "assignment"],
+	"license": "BSD",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
